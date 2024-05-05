@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Minor Project/Scenes/Main Menu.unity
+    guid: ee4dacaa54657e040b076dbc404cf528
+  - enabled: 1
+    path: Assets/Minor Project/Scenes/BedRoom.unity
+    guid: a4cebd5e6fdf9ef4ea941e8a2f46d41c
+  - enabled: 1
+    path: Assets/Minor Project/Scenes/Subway.unity
+    guid: 13caa13b746b47746907a5d7a0f9a760
+  - enabled: 1
+    path: Assets/Minor Project/Scenes/Level 1.unity
+    guid: 820e9ec97d7840e41b41b74e2b217160
+  m_configObjects: {}
